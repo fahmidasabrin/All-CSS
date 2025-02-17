@@ -1,0 +1,23 @@
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+.blog{
+    margin: 40px;
+    border: 10px solid red;
+    box-shadow: 10px 10px 20px purple;
+}
+.second{
+    /* display: none; hight; */
+    /* visibility: hidden; jaiga thakba but leka thakba na ; */
+}
+.quam{
+    border: 2px solid purple;
+    margin: 20px;
+    display: inline-block;
+}
+
+li{
+    display: inline;
+}
